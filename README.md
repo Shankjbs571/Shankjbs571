@@ -12,7 +12,7 @@ I'm passionate about Machine Learning 🤖, Statistics 📊, and Web Development
 - **Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy.
 
 #### 📫 Connect with Me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shankjbs571)
-- Twitter: [@YourTwitterHandle](https://x.com/shankjbs175)
+- LinkedIn: [shankjbs571](https://www.linkedin.com/in/shankjbs571)
+- Twitter: [@shankjbs175](https://x.com/shankjbs175)
 
 Feel free to explore my repositories to see what I've been working on!
