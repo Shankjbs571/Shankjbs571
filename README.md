@@ -15,3 +15,9 @@ You can find me on:
 * [GitHub as @Shankjbs571 (you are here)](https://github.com/Shankjbs571)
 * [LinkedIn](https://linkedin.com/in/shankjbs571)
 * [Dev](https://dev.to/shankjbs571)
+
+
+### I can work with
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,nodejs,django,flask&theme=light&line=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,mongodb,fastapi&theme=light&line=5)](https://skillicons.dev)
