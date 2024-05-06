@@ -18,6 +18,4 @@ You can find me on:
 
 
 ### I can work with
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,nodejs,django,flask&theme=light&line=5)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,mongodb,fastapi&theme=light&line=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,nodejs,django,flask,gcp,docker,mysql,postgres,mongodb,fastapi,react,vuejs,graphql,bash&perline=5)](https://skillicons.dev)
