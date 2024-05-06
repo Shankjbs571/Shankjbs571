@@ -6,7 +6,7 @@ I have been building APIs and tools 🚀
 
 I like to build things with Deep Learning/Machine Learning, Django/flask, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-I'm currently dedicating a high percentage of my time to ML and my other projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your Projects, feel free to **contact me**. 🤓
+I'm currently dedicating a high percentage of my time to ML and my other projects. At the same time, I'm also looking for Internship or full-time opportunities . If you would like to have my help with your Projects, feel free to **contact me**. 🤓
 
 You can find me on:
 
