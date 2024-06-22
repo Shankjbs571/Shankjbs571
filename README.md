@@ -10,7 +10,7 @@ I'm currently dedicating a high percentage of my time to ML and my other project
 
 You can find me on:
 
-* [My website: Shashank.com](https://shashank-r16v.onrender.com/)
+* [My website: Shashank.com](https://myportfolio-shashanks-projects-9dec6c47.vercel.app/)
 * [Twitter as @Shankjbs175](https://twitter.com/shankjbs175)
 * [GitHub as @Shankjbs571 (you are here)](https://github.com/Shankjbs571)
 * [LinkedIn](https://linkedin.com/in/shankjbs571)
