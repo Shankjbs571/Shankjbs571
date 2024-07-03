@@ -6,11 +6,12 @@ I have been building APIs and tools 🚀
 
 I like to build things with Machine Learning, Django/flask, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-I'm currently dedicating a high percentage of my time to ML and my other projects. At the same time, I'm also looking for Internship or full-time opportunities . If you would like to have my help with your Projects, feel free to **contact me**. 🤓
+I'm currently dedicating a high percentage of my time to ML and my other projects. At the same time, I'm also looking for Internship or full-time opportunities. I am an active freelancer on **Upwork**, working on various projects. If you would like to have my help with your Projects, feel free to **contact me**. 🤓
 
 You can find me on:
 
 * [My website: Shashank.com](https://myportfolio-shashanks-projects-9dec6c47.vercel.app/)
+* [Upwork:](https://www.upwork.com/freelancers/~01eb786c6f9beec5ca)
 * [Twitter as @Shankjbs175](https://twitter.com/shankjbs175)
 * [GitHub as @Shankjbs571 (you are here)](https://github.com/Shankjbs571)
 * [LinkedIn](https://linkedin.com/in/shankjbs571)
