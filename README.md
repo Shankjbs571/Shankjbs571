@@ -10,14 +10,12 @@ I'm currently dedicating a high percentage of my time to ML and my other project
 
 You can find me on:
 
-* [My website: Shashank.com](https://myportfolio-shashanks-projects-9dec6c47.vercel.app/)
-* [<img src="https://static-00.iconduck.com/assets.00/upwork-icon-1024x1024-e2s66t39.png" alt="Upwork Icon" width="40" height="40">](https://www.upwork.com/freelancers/~01eb786c6f9beec5ca) 
+[<img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" width="40" height="40" >](https://myportfolio-shashanks-projects-9dec6c47.vercel.app/)
+[<img src="https://static-00.iconduck.com/assets.00/upwork-icon-1024x1024-e2s66t39.png" alt="Upwork Icon" width="40" height="40">](https://www.upwork.com/freelancers/~01eb786c6f9beec5ca) 
 * [Twitter as @Shankjbs175](https://twitter.com/shankjbs175)
 * [GitHub as @Shankjbs571 (you are here)](https://github.com/Shankjbs571)
 * [LinkedIn](https://linkedin.com/in/shankjbs571)
 * [Dev](https://dev.to/shankjbs571)
-<img src="https://img.icons8.com/?size=256&id=2y_wcSzVjqiQ&format=png" />
-<img src="https://static-00.iconduck.com/assets.00/upwork-icon-1024x1024-e2s66t39.png" >
 
 ### I can work with
 [![My Skills](https://skillicons.dev/icons?i=py,c,nodejs,django,flask,gcp,docker,mysql,postgres,mongodb,fastapi,react,vuejs,graphql,bash,sklearn,redis,selenium)](https://skillicons.dev)
