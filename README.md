@@ -4,7 +4,7 @@ I'm a Computer Science Student.
 
 I have been building APIs and tools 🚀
 
-I like to build things with Machine Learning, Django/Flask, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+I like to build things with ML/AI integrations, Django/Flask, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
 I'm currently dedicating a high percentage of my time to ML and my other projects. At the same time, I'm also looking for internship or full-time opportunities. I am an active freelancer on **Upwork**, working on various projects. If you would like to have my help with your projects, feel free to **contact me**. 🤓
 
