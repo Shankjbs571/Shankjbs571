@@ -1,10 +1,12 @@
 ### Hey! I'm Shashank Kumar 👋
 
-I'm a Computer Science Student.
+I'm a **Software Developer** and Computer Science graduate.
 
-I have been building APIs and tools 🚀
+Currently building software products, developing APIs, and working on full-stack applications. 🚀
+I enjoy solving engineering problems, designing scalable systems, and turning ideas into working software.
+I'm always exploring new technologies and improving my engineering skills.
 
-I am an active freelancer on **Upwork**, working on various projects. If you would like to have my help with your projects, feel free to **contact me**. 🤓
+Feel free to explore my repositories and projects! 🤓
 
 You can find me on:
 
@@ -14,6 +16,8 @@ You can find me on:
 * [LinkedIn](https://linkedin.com/in/shankjbs571)
 * [Dev](https://dev.to/shankjbs571)
 
+<!--
 ### I can work with
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,nodejs,django,flask,gcp,docker,mysql,postgres,mongodb,fastapi,react,vuejs,graphql,bash,sklearn,redis,selenium)](https://skillicons.dev)
+-->
